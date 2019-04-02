@@ -38,3 +38,7 @@ body{
 #footer{
 	background-color: red;
 }
+#menus{
+	padding-left: 0px;
+	padding-right: 0px;
+}
